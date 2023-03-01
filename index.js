@@ -270,5 +270,5 @@ console.log('New Total: ', newTotal)
 let savings = (newTotal)/(total)
 console.log(savings)
 
-
+console.log ("We're Done")
 
